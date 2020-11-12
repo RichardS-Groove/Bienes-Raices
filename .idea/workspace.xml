@@ -26,7 +26,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="29104f41-4bc1-499c-b210-886a73584689" name="Default Changelist" comment="Se restauran a la normalidad el codigo." />
+=======
+    <list default="true" id="29104f41-4bc1-499c-b210-886a73584689" name="Default Changelist" comment="Se restauran a la normalidad el codigo.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> develop
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+<<<<<<< HEAD
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -43,6 +51,30 @@
       <set>
         <option value="https://github.com/RichardS-Groove/Bienes-Raices.git" />
       </set>
+=======
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1605211231" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1605211230" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+>>>>>>> develop
     </option>
   </component>
   <component name="ProjectId" id="1kC9R1TrPjbK6AyJzkm5mZCn0YD" />
@@ -91,6 +123,7 @@
       <map>
         <entry key="1">
           <value>
+<<<<<<< HEAD
             <State>
               <option name="FILTERS">
                 <map>
@@ -121,10 +154,14 @@
                 </map>
               </option>
             </State>
+=======
+            <State />
+>>>>>>> develop
           </value>
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="1" value="TOOL_WINDOW" />
@@ -142,4 +179,8 @@
     </state>
     <state x="332" y="107" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1605199274939" />
   </component>
+=======
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+>>>>>>> develop
 </project>
